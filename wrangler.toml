@@ -2,12 +2,6 @@ name = "sg-do" # todo
 main = "_worker.js"
 compatibility_date = "2024-05-26"
 
-
-[unsafe.metadata.observability]
-enabled = true
-
-[observability.logs]
-enabled = true
 [[routes]]
 pattern = "sg-do.bmkg.xyz"
 custom_domain = true
