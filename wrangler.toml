@@ -41,46 +41,6 @@ custom_domain = true
 [[routes]]
 pattern = "api.midtrans.com.sg-do.bmkg.xyz"
 custom_domain = true
-[[routes]]
-pattern = "sg-do.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "ava.game.naver.com.sg-do.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "graph.instagram.com.sg-do.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "quiz.int.vidio.com.sg-do.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "live.iflix.com.vcip.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "support.zoom.us.sg-do.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "blog.webex.com.sg-do.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "investors.spotify.com.sg-do.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "cache.netflix.com.sg-do.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "zaintest.vuclip.com.sg-do.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "io.ruangguru.com.sg-do.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "business.blibli.com.sg-do.ndeso.web.id"
-custom_domain = true
-[[routes]]
-pattern = "api.midtrans.com.sg-do.ndeso.web.id"
-custom_domain = true
-
 
 [vars]
 PROXYIP = "178.128.80.43:443"
